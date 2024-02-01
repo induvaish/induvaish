@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @induvaish
-- 👀 I’m interested in html ,css,js
-- 🌱 I’m currently learning full stack
+- 👀 I’m interested in HTML,CSS,JS, Bootstrap, SQL, React js, PHP
+- 🌱 I’m currently looking for Full Stack Developer job or Internship
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
